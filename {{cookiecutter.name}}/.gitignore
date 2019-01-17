@@ -1,8 +1,8 @@
-*.egg-info
-*.pyc
-.cache
+__pycache__
+.pytest_cache
 .coverage
 .eggs
+*.egg-info
 build
 dist
 htmlcov
