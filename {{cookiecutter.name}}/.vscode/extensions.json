@@ -4,6 +4,7 @@
     "DavidAnson.vscode-markdownlint",
     "esbenp.prettier-vscode",
     "ms-python.python",
-    "njpwerner.autodocstring"
+    "njpwerner.autodocstring",
+    "oderwat.indent-rainbow"
   ]
 }
