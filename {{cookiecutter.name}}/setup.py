@@ -1,4 +1,10 @@
+from os import path
 from setuptools import setup, find_packages
+
+here = path.abspath(path.dirname(__file__))
+
+with open(path.join(here, "README.md")) as f:
+    long_description = f.read()
 
 setup(
     name="{{cookiecutter.name}}",
@@ -16,6 +22,8 @@ setup(
     maintainer="{{cookiecutter.author}}",
     maintainer_email="{{cookiecutter.email}}",
     description="{{cookiecutter.description}}",
+    long_description=long_description,
+    long_description_content_type="text/markdown",
     license="{{cookiecutter.license}}",
     url="{{cookiecutter.url}}",
 )

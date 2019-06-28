@@ -3,3 +3,4 @@ black
 coverage
 pylint
 pytest
+twine
