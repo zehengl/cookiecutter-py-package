@@ -1,8 +1,7 @@
 {
-  "name": "cookiecutter-py",
+  "name": "cookiecutter-py-package",
   "author": "Zeheng li",
   "email": "imzehengl@gmail.com",
-  "license": "MIT",
-  "description": "An awesome library",
-  "url": "https://github.com/zehengl/cookiecutter-py/"
+  "description": "An awesome package",
+  "url": "https://github.com/zehengl/cookiecutter-py-package/"
 }

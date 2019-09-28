@@ -1,3 +1,3 @@
-# cookiecutter-py
+# cookiecutter-py-package
 
-The cookiecutter template for python repos.
+A cookiecutter template for python packages.

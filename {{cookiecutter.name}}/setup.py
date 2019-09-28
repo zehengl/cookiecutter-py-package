@@ -24,6 +24,5 @@ setup(
     description="{{cookiecutter.description}}",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    license="{{cookiecutter.license}}",
     url="{{cookiecutter.url}}",
 )
