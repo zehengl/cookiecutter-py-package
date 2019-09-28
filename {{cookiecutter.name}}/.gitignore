@@ -1,10 +1,7 @@
 __pycache__
 .pytest_cache
-.coverage
 .eggs
 *.egg-info
 build
 dist
-htmlcov
-result.xml
 venv

@@ -1,5 +1,0 @@
-[paths]
-source = {{cookiecutter.name}}
-
-[report]
-include = {{cookiecutter.name}}/*
