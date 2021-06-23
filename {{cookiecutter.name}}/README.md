@@ -14,10 +14,4 @@
 
     python setup.py test
 
-<hr>
-
-<sup>
-
 ## Credits
-
-</sup>
