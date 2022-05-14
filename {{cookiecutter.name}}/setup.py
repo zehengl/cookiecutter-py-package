@@ -1,5 +1,5 @@
 from os import path
-from setuptools import setup, find_packages
+from setuptools import setup
 
 here = path.abspath(path.dirname(__file__))
 
@@ -11,7 +11,7 @@ with open(path.join(here, "requirements.txt")) as f:
 
 setup(
     name="{{cookiecutter.name}}",
-    packages=find_packages(),
+    packages=["{{cookiecutter.package_name}}"],
     entry_points={"console_scripts": []},
     include_package_data=True,
     package_data={},
