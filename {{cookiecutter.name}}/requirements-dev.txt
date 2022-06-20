@@ -6,8 +6,8 @@ mkdocs-material==8.3.6
 mkdocs==1.3.0
 {%- endif %}
 pip-check-updates==0.17.0
-pylint==2.14.2
+pylint==2.14.3
 pytest==7.1.2
-setuptools==62.4.0
+setuptools==62.6.0
 twine==4.0.1
 wheel==0.37.1
