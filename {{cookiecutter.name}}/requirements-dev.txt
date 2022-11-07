@@ -2,12 +2,12 @@
 black==22.10.0
 {%- if cookiecutter.writing_docs == "yes" %}
 mkdocs-git-revision-date-localized-plugin==1.1.0
-mkdocs-material==8.5.7
-mkdocs==1.4.1
+mkdocs-material==8.5.8
+mkdocs==1.4.2
 {%- endif %}
 pip-check-updates==0.18.0
 pylint==2.15.5
 pytest==7.2.0
-setuptools==65.5.0
+setuptools==65.5.1
 twine==4.0.1
-wheel==0.37.1
+wheel==0.38.2
