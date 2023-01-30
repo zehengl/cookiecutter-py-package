@@ -1,7 +1,7 @@
 {
   "name": "cookiecutter-py-package",
   "package_name": "{{ cookiecutter.name|replace('-', '_') }}",
-  "author": "Zeheng li",
+  "author": "Zeheng Li",
   "email": "imzehengl@gmail.com",
   "description": "An awesome package",
   "url": "https://github.com/zehengl/cookiecutter-py-package/",
