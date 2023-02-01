@@ -8,10 +8,4 @@
 
 {{cookiecutter.description}}
 
-## Install
-
-## Test
-
-    python setup.py test
-
 ## Credits
