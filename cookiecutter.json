@@ -4,10 +4,7 @@
   "author": "Zeheng Li",
   "email": "imzehengl@gmail.com",
   "description": "An awesome package",
-  "url": "https://github.com/zehengl/cookiecutter-py-package/",
   "writing_docs": ["no", "yes"],
   "img": null,
-  "_copy_without_render": [
-    ".github"
-  ]
+  "_copy_without_render": [".github"]
 }

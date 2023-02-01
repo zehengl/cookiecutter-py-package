@@ -19,5 +19,6 @@ jobs:
           python-version: ${{ matrix.python-version }}
       - name: Test with pytest 🧪
         run: |
-          pip install -U setuptools
-          python setup.py test
+          pip install pytest
+          pip install -e .
+          pytest
