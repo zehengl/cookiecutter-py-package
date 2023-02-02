@@ -4,7 +4,6 @@
   "author": "Zeheng Li",
   "email": "imzehengl@gmail.com",
   "description": "An awesome package",
-  "writing_docs": ["no", "yes"],
   "img": null,
   "_copy_without_render": [".github"]
 }
