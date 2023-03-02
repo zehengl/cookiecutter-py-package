@@ -28,4 +28,5 @@ plugins:
   - minify:
       minify_html: true
   - git-revision-date-localized:
-      type: date
+      type: timeago
+      enable_creation_date: true
